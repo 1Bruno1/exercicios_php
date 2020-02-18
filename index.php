@@ -28,6 +28,14 @@
                 <a href="view/desempenho.php"> Situação do aluno </a>
             </li>
 
+            <li>
+                <a href="view/tag.php"> Uso da meta tag - SIGAA</a>
+            </li>
+
+            <li>
+                <a href="view/MetaTagREFRESH.php"> Uso da meta tag refresh - SIGAA</a>
+            </li>
+
         </ul>
     </div>
     
