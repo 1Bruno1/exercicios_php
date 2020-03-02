@@ -13,27 +13,35 @@
 
 
             <li>
-                <a href="view/fahrenheit.php"> Fahrenheit </a>
+                <a href="view/fahrenheit.php"> Fahrenheit </a> <p></p>
             </li>
 
             <li>
-                <a href="view/maior.php"> Maior Número </a>
+                <a href="view/maior.php"> Maior Número </a> <p></p>
             </li>
             
             <li>
-                <a href="view/mediaPonderada.php"> Média ponderada</a>
+                <a href="view/mediaPonderada.php"> Média ponderada</a> <p></p>
             </li>
 
             <li>
-                <a href="view/desempenho.php"> Situação do aluno </a>
+                <a href="view/desempenho.php"> Situação do aluno </a> <p></p>
             </li>
 
             <li>
-                <a href="view/tag.php"> Uso da meta tag - SIGAA</a>
+                <a href="view/tag.php"> Uso da meta tag - SIGAA</a> <p></p>
             </li>
 
             <li>
-                <a href="view/MetaTagREFRESH.php"> Uso da meta tag refresh - SIGAA</a>
+                <a href="view/MetaTagREFRESH.php"> Uso da meta tag refresh - SIGAA</a> <p></p>
+            </li>
+
+            <li>
+                <a href="view/pesoIdeal.php"> Peso ideal </a> <p></p>
+            </li>
+
+            <li>
+                <a href="view/apartamento.php"> Apartamento com animal de estimação </a> <p></p>
             </li>
 
         </ul>

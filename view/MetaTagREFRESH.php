@@ -8,6 +8,7 @@
     <meta http-equiv="refresh" content="4">
 
     <script>
+    
         function sorteioNumero(){
             resultado.innerHTML=Math.random() * 50;
         }
