@@ -37,11 +37,39 @@
             </li>
 
             <li>
+                <a href="view/caracter_entities.php"> Caracter Entities - SIGAA</a> <p></p>
+            </li>
+
+            <li>
+                <a href="view/Texto_predefinido.php"> Texto predefinido - SIGAA</a> <p></p>
+            </li>
+
+            <li>
+                <a href="view/estilo_de_texto.php"> Estilo de texto - SIGAA</a> <p></p>
+            </li>
+
+            <li>
+                <a href="view/estilo_de_texto_pratica.php"> Estilo de texto prática - SIGAA</a> <p></p>
+            </li>
+
+            <li>
+                <a href="view/formatar_fonte.php"> Formatar fonte - SIGAA</a> <p></p>
+            </li>
+
+            <li>
+                <a href="view/formatar_texto_pratica.php"> Formatar texto prática - SIGAA</a> <p></p>
+            </li>
+
+            <li>
                 <a href="view/pesoIdeal.php"> Peso ideal </a> <p></p>
             </li>
 
             <li>
                 <a href="view/apartamento.php"> Apartamento com animal de estimação </a> <p></p>
+            </li>
+
+            <li>
+                <a href="view/aposentadoria.php"> Aposentadoria no INSS </a>
             </li>
 
         </ul>
