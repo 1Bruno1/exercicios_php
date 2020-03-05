@@ -61,6 +61,10 @@
             </li>
 
             <li>
+                <a href="view/estilo_e_formatacao.php"> Estilo e formatação de texto - SIGAA</a> <p></p>
+            </li>
+
+            <li>
                 <a href="view/pesoIdeal.php"> Peso ideal </a> <p></p>
             </li>
 
@@ -69,7 +73,11 @@
             </li>
 
             <li>
-                <a href="view/aposentadoria.php"> Aposentadoria no INSS </a>
+                <a href="view/aposentadoria.php"> Aposentadoria no INSS </a> <p></p>
+            </li>
+
+            <li>
+                <a href="view/curso.php"> Consultar curso </a> <p></p>
             </li>
 
         </ul>
