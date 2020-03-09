@@ -80,6 +80,18 @@
                 <a href="view/curso.php"> Consultar curso </a> <p></p>
             </li>
 
+            <li>
+                <a href="view/select.php"> Testando função select </a> <p></p>
+            </li>
+
+            <li>
+                <a href="view/prato.php"> Calorias da comida </a> <p></p>
+            </li>
+
+            <li>
+                <a href="view/checkbox.php"> Testando checkbox </a> <p></p>
+            </li>
+
         </ul>
     </div>
     
