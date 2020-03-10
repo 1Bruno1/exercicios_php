@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<hea
+d>
+
+    <meta charset="UTF-8">
+    <meta name="author" content="Bruno Silva Albuquerque">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> Exemplo de estilos para listas </title>
+
+    <style>
+        #subsegunda{list-style-image: url(../img/fundo1.jpg)}
+        #segunda{list-style-type: upper-latin;}
+    </style>
+
+</head>
+<body>
+
+    <h1> Exemplo de estilos para listas </h1>
+   
+    <h2> Primeira lista </h2>
+        <ul>
+            <li style="list-style-type: square;"> Item 1 </li>
+            <li style="list-style-type: circle;"> Item 2 </li>
+            <li style="list-style-type: disc;"> Item 3 </li>
+        </ul>
+
+    <h2> Segunda lista </h2>
+    <ul id="segunda">
+        <li> item 1</li>
+        <li>
+            item 2
+
+            <ul id="subsegunda">
+                <li>Sub 2.1</li>
+                <li>Sub 2.2</li>
+                <li>Subg 2.3</li>
+            </ul>
+    </li>
+    <li>Item 3</li>
+    <li>Item 4</li>
+
+    </ul>
+
+</body>
+
+</html>

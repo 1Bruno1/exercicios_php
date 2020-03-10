@@ -92,6 +92,39 @@
                 <a href="view/checkbox.php"> Testando checkbox </a> <p></p>
             </li>
 
+            <li>
+                <a href="html/default.html"> Testando Css </a> <p></p>
+            </li>
+
+            <li>
+                <a href="html/exemplo_estilos.html"> Exemplo de estilos em fontes </a> <p></p>
+            </li>
+
+            
+            <li>
+                <a href="html/exemplo_textos.html"> Exemplo de estilos em textos </a> <p></p>
+            </li>
+
+            <li>
+                <a href="html/exemplo_margem.html"> Exemplo de estilos em margem </a> <p></p>
+            </li>
+
+            
+            <li>
+                <a href="html/exemplo_bordas.html"> Exemplo de estilos em bordas </a> <p></p>
+            </li>
+
+            <li>
+                <a href="html/exemplo_background.html"> Exemplo de estilos em background </a> <p></p>
+            </li>
+
+            <li>
+                <a href="html/exemplo_listas.html"> Exemplo de estilos para listas </a> <p></p>
+            </li>
+
+
+
+
         </ul>
     </div>
     
