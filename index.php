@@ -122,6 +122,14 @@
                 <a href="html/exemplo_listas.html"> Exemplo de estilos para listas </a> <p></p>
             </li>
 
+            <li>
+                <a href="view/Quest1_2atv.php"> 1º Questão da 2º atividade -  PHP </a> <p></p>
+            </li>
+
+            <li>
+                <a href="view/Quest2_2atv.php"> 2º Questão da 2º atividade -  PHP </a> <p></p>
+            </li>
+
 
 
 
