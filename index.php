@@ -130,6 +130,14 @@
                 <a href="view/Quest2_2atv.php"> 2º Questão da 2º atividade -  PHP </a> <p></p>
             </li>
 
+            <li>
+                <a href="view/Quest3_2atv.php"> 3º Questão da 2º atividade -  PHP </a> <p></p>
+            </li>
+
+            <li>
+                <a href="view/Quest4_2atv.php"> 4º Questão da 2º atividade -  PHP </a> <p></p>
+            </li>
+
 
 
 
